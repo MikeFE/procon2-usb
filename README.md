@@ -91,3 +91,7 @@ The controller protocol comes from the reverse-engineering work in
 [linux-switch2](https://github.com/novakpetya/linux-switch2),
 [procon2tool](https://github.com/HandheldLegend/procon2tool) and
 [procon2-mac](https://github.com/caqlayan/procon2-mac).
+
+## License
+
+MIT. See [LICENSE](LICENSE).

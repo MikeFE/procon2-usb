@@ -6,6 +6,7 @@ class Procon2Usb < Formula
   homepage "https://github.com/MikeFE/procon2-usb"
   url "https://github.com/MikeFE/procon2-usb/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "REPLACE_WITH_RELEASE_TARBALL_SHA256"
+  license "MIT"
 
   depends_on macos: :ventura
 
