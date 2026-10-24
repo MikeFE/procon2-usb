@@ -1,0 +1,4 @@
+# Switch 2 Pro Controller over USB after `procon2-usb enable` (report format 0x09),
+# as seen by SDL's IOKit joystick backend on macOS. Learned with `procon2-usb learn`.
+# Face buttons are positional: Nintendo B (bottom) is SDL "a".
+030000007e0500006920000001020000,Switch 2 Pro Controller,b:b1,a:b0,y:b3,x:b2,leftshoulder:b12,rightshoulder:b4,lefttrigger:b13,righttrigger:b5,back:b14,start:b6,guide:b16,misc1:b17,misc2:b20,leftstick:b15,rightstick:b7,dpup:b11,dpdown:b8,dpleft:b10,dpright:b9,paddle1:b18,paddle2:b19,leftx:a0,lefty:a1~,rightx:a2,righty:a3~,platform:Mac OS X,
