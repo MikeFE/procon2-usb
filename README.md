@@ -3,12 +3,12 @@
 Use your **Switch 2 Pro Controller** on a Mac over a USB-C cable, in
 **Moonlight** and other games and apps built on SDL.
 
-Out of the box, macOS sees the controller but gets no input from it. The
-controller waits for a "start" message that only a Switch 2 normally sends.
-procon2-usb runs quietly in the background and sends that message whenever
-you plug the controller in or wake your Mac.
+Out of the box, macOS sees the controller but gets no input from it.
+procon2-usb runs quietly in the background, initializes and gathers
+input from the controller for you.
 
-No drivers, no security changes, nothing to configure.
+There are no drivers, security changes or configuration steps required
+after it's installed.
 
 ## Install
 
